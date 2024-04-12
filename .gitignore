@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 .next
 node_modules
-=======
 # Logs
 logs
 *.log
@@ -132,4 +130,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
->>>>>>> fef1669bf5e4c3e1e4b4e0819c83fe6d88e265b8
