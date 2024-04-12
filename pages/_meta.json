@@ -1,7 +1,15 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "foreword": "Foreword",
+  "contribute": "Contribute",
+  "blockchain-fundamentals": "Blockchain Fundamentals",
+  "cryptocurrencies": "Cryptocurrencies",
+  "getting-started": "Getting Started",
+  "crypto-trading-and-investment": "Crypto Trading and Investment",
+  "staking": "Cryptocurrency Staking",
+  "decentralized-finance-defi": "Decentralized Finance (DeFi)",
+  "security-and-privacy": "Crypto Security and Privacy",
+  "emerging-trends-future": "Emerging Trends and Future of Crypto",
   "about": {
     "title": "About",
     "type": "page"
