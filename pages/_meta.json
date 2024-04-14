@@ -19,5 +19,9 @@
     "type": "page",
     "href": "https://twitter.com/begintoken",
     "newWindow": true
+  },
+  "glossary": {
+    "title": "Glossary",
+    "type": "page"
   }
 }
