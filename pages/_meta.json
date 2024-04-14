@@ -14,14 +14,14 @@
     "title": "About",
     "type": "page"
   },
+  "glossary": {
+    "title": "Glossary",
+    "type": "page"
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
     "href": "https://twitter.com/begintoken",
     "newWindow": true
-  },
-  "glossary": {
-    "title": "Glossary",
-    "type": "page"
   }
 }
