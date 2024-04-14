@@ -1,5 +1,5 @@
 import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+import { DocsThemeConfig, useConfig } from 'nextra-theme-docs'
 import { useRouter } from 'next/router'
 
 const useNextSeoProps = () => {
@@ -12,14 +12,33 @@ const useNextSeoProps = () => {
 }
 
 const config: DocsThemeConfig = {
-  // logo: <span>Begin Token</span>,
   logo: (
     <>
-      <span>
-        Begin Token 
+    <span style={{
+        display: 'inline-block',
+        width: '40px',
+        height: '40px',
+        borderRadius: '50%',
+        overflow: 'hidden'
+      }}>
+        <img src="/begintoken.ico" alt="" style={{
+          width: '100%',
+          height: '100%',
+          objectFit: 'contain'
+        }} />
       </span>
     </>
   ),
+  head: function useHead() {
+    const { title } = useConfig()
+    const { route } = useRouter()
+    return (
+      <>
+      <link rel="icon" href="/favicon.svg" type='image/svg+xml' />
+      </>
+    )
+
+  },
   project: {
     link: 'https://github.com/begintoken/learn',
   },

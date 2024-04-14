@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  fs:
+    specifier: 0.0.1-security
+    version: 0.0.1-security
   next:
     specifier: ^13.0.6
     version: 13.0.6(react-dom@18.2.0)(react@18.2.0)
@@ -656,6 +659,10 @@ packages:
 
   /focus-visible@5.2.0:
     resolution: {integrity: sha512-Rwix9pBtC1Nuy5wysTmKy+UjbDJpIfg8eHjw0rjZ1mX4GNLz1Bmd16uDpI3Gk1i70Fgcs8Csg2lPm8HULFg9DQ==}
+    dev: false
+
+  /fs@0.0.1-security:
+    resolution: {integrity: sha512-3XY9e1pP0CVEUCdj5BmfIZxRBTSDycnbqhIOGec9QYtmVH2fbLpj86CFWkrNOkt/Fvty4KZG5lTglL9j/gJ87w==}
     dev: false
 
   /get-stream@3.0.0:
