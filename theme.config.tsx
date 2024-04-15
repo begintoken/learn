@@ -39,25 +39,24 @@ const config: DocsThemeConfig = {
       <link rel="sitemap" type='application/xml' href="/sitemap.xml" />
       {/* <!-- HTML Meta Tags --> */}
         <title>Begin Token: Learn Crypto for Free!</title>
-        <meta name="description" content="Empowering the crypto community with free and accessible education. Let's $BEGIN !">
+        <meta name="description" content="Empowering the crypto community with free and accessible education. Let's $BEGIN !"/>
 
         {/* <!-- Facebook Meta Tags --> */}
-        <meta property="og:url" content="https://learn.begintoken.com">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Begin Token: Learn Crypto for Free!">
-        <meta property="og:description" content="Empowering the crypto community with free and accessible education. Let's $BEGIN !">
-        <meta property="og:image" content="https://opengraph.b-cdn.net/production/documents/6f91d5a3-1727-439f-9928-6ad5c6808064.png?token=bbACaMH_w_ZchI41Iv-efleHEUK89lW7AYj61GLkdts&height=675&width=1200&expires=33249176483">
+        <meta property="og:url" content="https://learn.begintoken.com"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Begin Token: Learn Crypto for Free!"/>
+        <meta property="og:description" content="Empowering the crypto community with free and accessible education. Let's $BEGIN !"/>
+        <meta property="og:image" content="https://opengraph.b-cdn.net/production/documents/6f91d5a3-1727-439f-9928-6ad5c6808064.png?token=bbACaMH_w_ZchI41Iv-efleHEUK89lW7AYj61GLkdts&height=675&width=1200&expires=33249176483"/>
 
         {/* <!-- Twitter Meta Tags --> */}
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="learn.begintoken.com">
-        <meta property="twitter:url" content="https://learn.begintoken.com">
-        <meta name="twitter:title" content="Begin Token: Learn Crypto for Free!">
-        <meta name="twitter:description" content="Empowering the crypto community with free and accessible education. Let's $BEGIN !">
-        <meta name="twitter:image" content="https://opengraph.b-cdn.net/production/documents/6f91d5a3-1727-439f-9928-6ad5c6808064.png?token=bbACaMH_w_ZchI41Iv-efleHEUK89lW7AYj61GLkdts&height=675&width=1200&expires=33249176483">
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta property="twitter:domain" content="learn.begintoken.com"/>
+        <meta property="twitter:url" content="https://learn.begintoken.com"/>
+        <meta name="twitter:title" content="Begin Token: Learn Crypto for Free!"/>
+        <meta name="twitter:description" content="Empowering the crypto community with free and accessible education. Let's $BEGIN !"/>
+        <meta name="twitter:image" content="https://opengraph.b-cdn.net/production/documents/6f91d5a3-1727-439f-9928-6ad5c6808064.png?token=bbACaMH_w_ZchI41Iv-efleHEUK89lW7AYj61GLkdts&height=675&width=1200&expires=33249176483"/>
 
         {/* <!-- Meta Tags Generated via https://www.opengraph.xyz --> */}
-        </meta>
       </>
     )
 
