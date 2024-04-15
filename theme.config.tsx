@@ -35,6 +35,8 @@ const config: DocsThemeConfig = {
     return (
       <>
       <link rel="icon" href="/favicon.svg" type='image/svg+xml' />
+      <link rel="robots" href="/robots.txt" />
+      <link rel="sitemap" type='application/xml' href="/sitemap.xml" />
       </>
     )
 
