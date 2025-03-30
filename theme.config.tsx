@@ -61,10 +61,6 @@ const config: DocsThemeConfig = {
     )
 
   },
-  project: {
-    link: 'https://github.com/begintoken/learn',
-  },
-  docsRepositoryBase: 'https://github.com/begintoken/learn',
   footer: {
     text: '© Begin Token Project 2024',
   },
